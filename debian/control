@@ -68,7 +68,7 @@ Description: Akonadi MIME handling library
 Package: libkf5akonadimime-dev
 Section: libdevel
 Architecture: any
-Depends: libkf5akonadi-dev (>= 4:16.07~),
+Depends: libkf5akonadi-dev (>= 4:16.04~),
          libkf5akonadimime5 (= ${binary:Version}),
          ${misc:Depends},
          ${shlibs:Depends}
