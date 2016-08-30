@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: kdepimlibs
-Source: git://anongit.kde.org/kdepimlibs
+Upstream-Name: akonadi-mime
+Source: git://anongit.kde.org/akonadi-mime
 Comment: Numerous people, too many to count, have contributed to kdepimlibs as
  a whole. The KDE project tries to make an extensive list of people who
  contributed to KDE at http://www.kde.org/people/credits/
