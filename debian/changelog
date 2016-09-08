@@ -1,10 +1,11 @@
-akonadi-mime (4:16.08.0-0neoo~1.gbpeec0b9) UNRELEASED; urgency=medium
+akonadi-mime (4:16.08.1-1~1.gbp1d41b5) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @eec0b928a8376bb009d32c6479d50b62f1cc0a18 **
+  ** SNAPSHOT build @1d41b527f77c9d4f1d81c99fc61f9e34bbdbf495 **
 
   * Update build-deps and deps with the info from cmake
+  * UNRELEASED
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 30 Aug 2016 15:04:28 +0200
+ -- Automatic packaging <jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 22:23:34 +0200
 
 akonadi-mime (4:16.08.0-0neon) xenial; urgency=medium
 
