@@ -30,6 +30,7 @@ Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/akonadi-mime.gi
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/akonadi-mime.git
 
 Package: akonadi-mime-data
+Section: kde
 Architecture: all
 Multi-Arch: foreign
 Depends: ${misc:Depends}, ${shlibs:Depends}
