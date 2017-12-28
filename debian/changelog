@@ -4,6 +4,9 @@ akonadi-mime (4:17.08.3-2) UNRELEASED; urgency=medium
   * Switch Section of akonadi-mime-data from libs to kde.
   * Simplify watch file, and switch it to https.
 
+  [ Sandro Knauß ]
+  * mark libkf5akonadimime-dev as Multi-Arch: same
+
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 27 Dec 2017 16:37:51 +0100
 
 akonadi-mime (4:17.08.3-1) unstable; urgency=medium
